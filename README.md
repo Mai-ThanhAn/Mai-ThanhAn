@@ -1,4 +1,5 @@
 ## 👋 Hi there, I'm Anthony
+“Everything will be okay in the end. If it's not okay, it's not the end.” ― John Lennon
 
 <p align="center">
   <img src="https://github.com/Mai-ThanhAn/Mai-ThanhAn/blob/output/github-contribution-grid-snake.svg" />
