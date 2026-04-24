@@ -2,7 +2,7 @@ name: Update Weather
 
 on:
   schedule:
-    - cron: "0 * * * *"  # mỗi 1 giờ
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,20 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Update weather
-        uses: huantt/update-weather@v1
-        with:
-          city: "Binh Duong"
-          units: "metric"
-          api_key: ${{ secrets.WEATHER_API_KEY }}
+      - name: Get weather
+        run: |
+          curl "https://api.openweathermap.org/data/2.5/weather?q=Binh%20Duong&appid=${{ secrets.WEATHER_API_KEY }}&units=metric" > weather.json
 
-      - name: Commit changes
+      - name: Update README
+        run: |
+          TEMP=$(cat weather.json | jq '.main.temp')
+          DESC=$(cat weather.json | jq -r '.weather[0].description')
+
+          sed -i "s|<!-- WEATHER:START -->.*<!-- WEATHER:END -->|<!-- WEATHER:START --> 🌤 $TEMP°C - $DESC <!-- WEATHER:END -->|g" README.md
+
+      - name: Commit
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add .
-          git commit -m "Update weather"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update weather" || echo "No changes"
           git push
