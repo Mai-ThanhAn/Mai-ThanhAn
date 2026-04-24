@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Anthony (Mai Thanh An)
+## 👋 Hi there, I'm Anthony
 
 <p align="center">
   <img src="https://github.com/Mai-ThanhAn/Mai-ThanhAn/blob/output/github-contribution-grid-snake.svg" />
@@ -60,4 +60,4 @@
 ---
 
 ### 🌌 Personal Motto
-*“Hàng ngày bạn đứng trước cả trăm sự lựa chọn, sai là chuyện bình thường. Muốn không sai chỉ cso không làm gì mà thôi”* 🥉
+*“Hàng ngày bạn đứng trước cả trăm sự lựa chọn, sai là chuyện bình thường. Muốn không sai chỉ có không làm gì mà thôi”* 🥉
