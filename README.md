@@ -7,6 +7,7 @@
 Full_Name: Mai Thanh An [Anthony]
 Email: maian250704@gmail.com
 **Software Engineering Student | Full-stack Developer**
+### 🚀 I'm ready to fly to...Mars.
 
 ---
 
@@ -16,10 +17,6 @@ Email: maian250704@gmail.com
 - **Database:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 - **DevOps & Tools:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white) ![IIS](https://img.shields.io/badge/IIS-white?style=flat&logo=windows&logoColor=0078D4) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)
 - **Hardware/IoT:** ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-
----
-
-### 🚀 What I'm up to... The Mars
 
 ---
 
