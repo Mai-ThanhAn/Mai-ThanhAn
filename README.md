@@ -13,7 +13,7 @@
 - ✨ Always learning, always building  
 
 📫 Contact: **maian250704@gmail.com**
-
+🚀 I'm ready to fly to...Mars. ;)
 ---
 
 ### 🛠 Tech Stack
@@ -23,12 +23,20 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
+#### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
+
 #### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
@@ -52,4 +60,4 @@
 ---
 
 ### 🌌 Personal Motto
-> *"Mistakes are part of the journey. The only real failure is doing nothing."*
+*“Hàng ngày bạn đứng trước cả trăm sự lựa chọn, sai là chuyện bình thường. Muốn không sai chỉ cso không làm gì mà thôi”* 🥉
