@@ -13,7 +13,8 @@
 - 📱 Passionate about building real-world applications  
 - ✨ Always learning, always building  
 
-📫 Contact: **maian250704@gmail.com**
+📫 Contact: **maian250704@gmail.com**<br>
+
 🚀 I'm ready to fly to...Mars. ;)
 ---
 
