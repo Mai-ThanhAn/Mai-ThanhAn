@@ -1,0 +1,32 @@
+name: Update Weather
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # mỗi 1 giờ
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weather:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update weather
+        uses: huantt/update-weather@v1
+        with:
+          city: "Binh Duong"
+          units: "metric"
+          api_key: ${{ secrets.WEATHER_API_KEY }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update weather"
+          git push
