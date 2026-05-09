@@ -65,4 +65,4 @@
 *“Hàng ngày bạn đứng trước cả trăm sự lựa chọn, sai là chuyện bình thường. Muốn không sai chỉ có không làm gì mà thôi”* 🥉
 
 ### 🌤 Current Weather
-<!-- WEATHER:START --> 🌤 25.98°C - clear sky <!-- WEATHER:END -->
+<!-- WEATHER:START --> 🌤 25.39°C - clear sky <!-- WEATHER:END -->
